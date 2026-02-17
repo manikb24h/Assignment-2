@@ -114,6 +114,22 @@ header{
     max-width: 116.67px;
     position: absolute;
 }
+.new{
+    width: 75px;
+    height: 38px;
+    background-color: #00FF88;
+    border-radius: 1000px;
+    position: absolute;
+    top: 12px;
+    right: 23px;
+    box-shadow: 0 0 7px #00FF88;
+}
+.new p{
+    color: #1A0B2E;
+    font-size: 1.125rem;
+    font-weight: 600;
+    margin: 8px 16px;
+}
 .hdmicrophone{
     max-width: 550px;
     display: flex;
